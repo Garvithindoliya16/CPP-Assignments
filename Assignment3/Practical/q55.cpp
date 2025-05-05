@@ -43,7 +43,7 @@ class Student : public Person{
 int main(){
     Person p1;
     Student s1;
-    p1.setName("Jay");
+    p1.setName("Garvit");
     p1.setAge(12);
     s1.setStudentID(1234);
     cout<<"Name : "<<s1.getName()<<endl
