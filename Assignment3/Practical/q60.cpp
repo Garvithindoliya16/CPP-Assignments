@@ -24,7 +24,7 @@ public:
 };
 
 int main(){
-	Employee e1("Jay" , "Software Engineer" , 200000);
+	Employee e1("Garvit" , "Software Engineer" , 10000000);
 	e1.display();
 	return 0;
 }
